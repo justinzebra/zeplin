@@ -1,7 +1,9 @@
 {
   "expo": {
-    "name": "zeplin1",
-    "slug": "zeplin1",
+    "name": "Blank Template",
+    "slug": "appwk4proj",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
     "platforms": [
       "ios",
       "android",
